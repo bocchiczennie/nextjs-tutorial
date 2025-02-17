@@ -1,1 +1,1 @@
-https://nextjs-tutorial-zeta-bice-18.vercel.app/
+https://nextjs-tutorial-ten-ashen.vercel.app/
